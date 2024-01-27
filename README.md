@@ -8,3 +8,6 @@ Install telebot - pip install telebot
 
 
 run downloaded script
+
+Бот не разрабатывается
+Bot not developing
